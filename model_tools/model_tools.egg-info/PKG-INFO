@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: model-tools
+Version: 1.0.0
+Summary: some useful tools for data analysis and modeling
+Home-page: UNKNOWN
+Author: Yang Haitian
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: beta
+Classifier: Intended Audience :: 
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
